@@ -2,6 +2,9 @@
 
 This Python tool uses EasyOCR and the Scryfall API to automatically rename image files of Magic: The Gathering cards based on the card name detected through OCR. Successfully identified cards are renamed and moved to a "Processed" folder, while unrecognized cards are moved to an "Error" folder.
 
+Best used with Card Cropper!
+[github](https://github.com/ClockworkZen/card-cropper)
+
 ## Prerequisites
 
 Ensure you have the following installed before running the script:
